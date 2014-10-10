@@ -1,0 +1,9 @@
+[class*="span"] {
+    border: 1px solid #cccccc;
+    text-align: center;
+}
+.container, .container-fluid{
+    border: 1px solid #cccccc;
+    margin-top: 10px;
+    text-align: center
+}
