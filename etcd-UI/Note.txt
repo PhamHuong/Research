@@ -1,0 +1,47 @@
+=======================
+# etcd UI Research
+=======================
+
+https://github.com/coreos/etcd : Using curl
+https://www.npmjs.org/package/node-etcd: npm package
+https://github.com/laiwei/doozerd
+
+=========================
+Go v1.3 -  Install from source
+https://golang.org/doc/install/source#install
+=========================
+Setup and Install https://github.com/coreos/etcd
+
+1. vagrant 1.6
+2. centOs 6.5
+3. Go v1.3 from source
+4. Get coreos/etcd from github and compile
+
+==========================
+# Nodejs and etcd
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-run-a-node-js-app-on-centos-6-4-64bit
+
+```
+npm -g install express express-generator supervisor
+```
+
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-a-centos-7-server
+
+```
+sudo yum install epel-release
+sudo yum install nodejs
+sudo yum install npm
+```
+
+==========================
+# Python Flume Logger
+
+https://github.com/lsjostro/flumelogger
+https://github.com/jplana/python-etcd
+
+==========================
+
+Get Vagrant id
+
+C:\Program Files\Oracle\VirtualBox>VBoxManage.exe showvminfo ubuntu-cloudimg-trusty-vagrant-amd64_1410401490396_28906 | findstr /B UUID
