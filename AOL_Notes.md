@@ -1,4 +1,4 @@
-# AOL Portal
+# Should investigate the list below
 =================================
 
 - Ubuntu
@@ -18,4 +18,3 @@
 - Vertica
 - ODBC (Open Data Base Connectivity) 
 
-AOLPORTAL-20: The webpages will be served up by Flask, and static data will be plotted as bar graphs using d3
